@@ -1,0 +1,2 @@
+#mysql数据库远程连接权限
+GRANT ALL PRIVILEGES ON *.* TO root@'%' IDENTIFIED BY 'dongchen2015$';

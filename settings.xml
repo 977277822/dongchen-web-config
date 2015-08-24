@@ -98,6 +98,16 @@
       <username>admin</username>
       <password>dongchen2015$</password>
   </server>
+<server>
+            <id>release</id>
+            <username>deployment</username>
+            <password>dongchen2015$</password>
+        </server>
+        <server>
+            <id>snapshot</id>
+            <username>deployment</username>
+            <password>dongchen2015$</password>
+        </server>
   </servers>
 
   <mirrors>
